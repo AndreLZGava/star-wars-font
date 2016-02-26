@@ -7,7 +7,7 @@ I didn't create all of the icons yet.
 Just combine this icons with font-awesome project, adding fa-icon-name in complement font awesome classes [fa fa-2x ...]. Available icons:
 ###fa-rebel-alliance
 ###fa-galactic-imperium
-###fa-crused-lightsaber
+###fa-crossed-lightsaber
 ###fa-new-jedi-order
 ###fa-order-jedi
 ###fa-galatic-republic
