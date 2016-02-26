@@ -13,7 +13,7 @@
 }
 
 [data-icon]:before {
-  font-family: "untitled-font-3" !important;
+  font-family: "star-wars-font" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: normal !important;
@@ -27,7 +27,7 @@
 
 [class^="fa-"]:before,
 [class*=" fa-"]:before {
-  font-family: "untitled-font-3" !important;
+  font-family: "star-wars-font" !important;
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
