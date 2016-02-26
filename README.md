@@ -1,4 +1,4 @@
-# Star Wars Font Iconic 0.1v
+# Iconic Star Wars Font 0.1v
 
 This iconic font was created to be compatible with font awesome project and bootstrap, if you fins any problem, error or bug please report an issue.
 I didn't create all of the icons yet.
