@@ -25,8 +25,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-[class^="icon-"]:before,
-[class*=" icon-"]:before {
+[class^="fa-"]:before,
+[class*=" fa-"]:before {
   font-family: "untitled-font-3" !important;
   font-style: normal !important;
   font-weight: normal !important;
@@ -38,57 +38,57 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-fa-rebel-alliance:before {
+.fa-rebel-alliance:before {
   content: "\61";
 }
-.icon-fa-darth-vather:before {
+.fa-darth-vather:before {
   content: "\62";
 }
-.icon-fa-galactic-imperium:before {
+.fa-galactic-imperium:before {
   content: "\63";
 }
-.icon-fa-sith-imperium:before {
+.fa-sith-imperium:before {
   content: "\64";
 }
-.icon-fa-crused-light-siber:before {
+.fa-crused-light-siber:before {
   content: "\65";
 }
-.icon-fa-light-siber:before {
+.fa-light-siber:before {
   content: "\66";
 }
-.icon-fa-new-jedi-order:before {
+.fa-new-jedi-order:before {
   content: "\67";
 }
-.icon-fa-new-republic:before {
+.fa-new-republic:before {
   content: "\68";
 }
-.icon-fa-order-jedi:before {
+.fa-order-jedi:before {
   content: "\69";
 }
-.icon-fa-r2d2:before {
+.fa-r2d2:before {
   content: "\6a";
 }
-.icon-fa-galatic-republic:before {
+.fa-galatic-republic:before {
   content: "\6b";
 }
-.icon-fa-galatic-senade:before {
+.fa-galatic-senade:before {
   content: "\6c";
 }
-.icon-fa-separatists:before {
+.fa-separatists:before {
   content: "\6d";
 }
-.icon-fa-dark-sun:before {
+.fa-dark-sun:before {
   content: "\6e";
 }
-.icon-fa-dark-sun-sith:before {
+.fa-dark-sun-sith:before {
   content: "\6f";
 }
-.icon-fa-star-death:before {
+.fa-star-death:before {
   content: "\70";
 }
-.icon-fa-stormtroopper:before {
+.fa-stormtroopper:before {
   content: "\71";
 }
-.icon-fa-old-galactic-republic:before {
+.fa-old-galactic-republic:before {
   content: "\72";
 }
